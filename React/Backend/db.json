@@ -1,7 +1,14 @@
 {
-    "users": [{
-        "id": 1,
-        "name": "Gabriel Gustavo",
-        "email": "ggustavo@gmail.com"
-    }]
+  "users": [
+    {
+      "name": "Jace, prodigy",
+      "email": "jace@bol.com.br",
+      "id": 1
+    },
+    {
+      "name": "Ana Julia",
+      "email": "Ana43@gmail.com",
+      "id": 2
+    }
+  ]
 }
